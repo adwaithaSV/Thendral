@@ -18,3 +18,10 @@ Bootstrap, CSS
 
 ## Getting Started
 ### Clone the repository:
+``` git clone https://github.com/adwaithaSV/Thendral.git ```
+### Configure MySQL:
+Update application.properties with your database credentials.
+### Build and run:
+``` ./mvnw clean spring-boot:run ```
+### Access the app:
+Open http://localhost:8080 in your browser.
